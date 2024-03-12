@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Anta-Regular.ttf",
+      "sha1": "e3e740580b8ba422bd33c18e18a00ac684a1553a"
+    },
+    {
+      "path": "assets/fonts/Anton-Regular.ttf",
+      "sha1": "49243712633711db3b673d0b03536e0180cd7ddb"
+    },
+    {
+      "path": "assets/fonts/Audiowide-Regular.ttf",
+      "sha1": "651503b7a0a89f49f78f14d04c62f811853573cd"
+    },
+    {
+      "path": "assets/fonts/Fredoka-SemiBold.ttf",
+      "sha1": "10738d8e8510bbd602eff944e35fc57254425f2e"
+    },
+    {
+      "path": "assets/fonts/KodeMono-VariableFont_wght.ttf",
+      "sha1": "dd05eabb72a0a52849f461d974cb83d5e72091fa"
+    },
+    {
+      "path": "assets/fonts/PressStart2P-Regular.ttf",
+      "sha1": "59caa00e6aac4573f51943e0bdd20c758eddbf4a"
+    },
+    {
+      "path": "assets/fonts/ProtestStrike-Regular.ttf",
+      "sha1": "30bcf6760fc8f0965496cd49b3ac739d5c459a52"
+    }
+  ]
+}
